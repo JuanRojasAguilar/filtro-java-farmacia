@@ -1,0 +1,11 @@
+com/farmacia/paciente/application/GetAllPacientesUseCase.class
+com/farmacia/paciente/repository/PacienteRepository.class
+com/farmacia/paciente/application/GetPacienteByIdUseCase.class
+com/farmacia/paciente/repository/controller/PacienteUiMenu.class
+com/farmacia/paciente/application/CreatePacienteUseCase.class
+com/farmacia/paciente/application/UpdatePacienteUseCase.class
+com/farmacia/paciente/repository/controller/CreatePacienteUi.class
+com/farmacia/paciente/domain/service/PacienteService.class
+com/farmacia/Main.class
+com/farmacia/paciente/application/DeletePacienteUseCase.class
+com/farmacia/paciente/domain/entity/Paciente.class

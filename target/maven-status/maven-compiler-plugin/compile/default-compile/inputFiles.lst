@@ -1,0 +1,11 @@
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/Main.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/application/CreatePacienteUseCase.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/application/DeletePacienteUseCase.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/application/GetAllPacientesUseCase.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/application/GetPacienteByIdUseCase.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/application/UpdatePacienteUseCase.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/domain/entity/Paciente.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/domain/service/PacienteService.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/repository/PacienteRepository.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/repository/controller/CreatePacienteUi.java
+/home/camper/juanro/javita/farmacia/src/main/java/com/farmacia/paciente/repository/controller/PacienteUiMenu.java
